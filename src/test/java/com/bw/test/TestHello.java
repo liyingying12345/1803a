@@ -9,6 +9,6 @@ public class TestHello {
 	@Test
 	public void test(){
 	
-		System.out.println("sdsdsdsd");
+		System.out.println("qeqrqer");
 	}
 }
